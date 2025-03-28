@@ -356,7 +356,7 @@ align-items: center;
 }
 .grid1 button
 {
-    padding: 0px 40px;
+    /* padding: 0px 40px; */
     border-radius: 56px;
     background-color:#4C7852;
     border: none;
@@ -460,6 +460,7 @@ align-items: center;
     padding: 8px;
     margin-top: 20px;
     margin-bottom: 20px;
+    color: white;
 }
 
 .bll
